@@ -6,7 +6,7 @@
 
 Machine learning model to detect sentiment of movie reviews from IMDb dataset using PyTorch and TorchText. 
 
-👉 Please click here for code file - [sentiment classification](https://github.com/krishnarevi/TSAI_END2.0_Session9/blob/main/Part1_Classification_metrics.ipynb)
+👉 Please click here for code file - [sentiment classification](https://github.com/krishnarevi/NLP_Evaluation_Metrics/blob/main/Part1_Classification_metrics.ipynb)
 
 ### Evaluation Metrics used : Accuracy , Precision ,Recall , F1 score 
 
@@ -153,7 +153,7 @@ Here F1 score is ~ 0.88 ,which is pretty good and similar to accuracy what we ha
 
 ### Use case : German to English translation model 
 
-👉 Please click here for code file - [German-English translation model](https://github.com/krishnarevi/TSAI_END2.0_Session9/blob/main/Part2_BleuScore_PPL.ipynb)
+👉 Please click here for code file - [German-English translation model]https://github.com/krishnarevi/NLP_Evaluation_Metrics/blob/main/Part2_BleuScore_PPL.ipynb)
 
 ###### Evaluation Metrics used : Bleu Score, Perplexity 
 
@@ -252,7 +252,7 @@ The most useful part of a BLEU score is that it can be used to compare different
 
 We would use the same use case we tried in part 2&3 to show case BERTScore 
 
-👉 Please click here for code file - [German-English translation model](https://github.com/krishnarevi/TSAI_END2.0_Session9/blob/main/Part3_BertScore_PPL.ipynb)
+👉 Please click here for code file - [German-English translation model](https://github.com/krishnarevi/NLP_Evaluation_Metrics/blob/main/Part3_BertScore_PPL.ipynb)
 
 ###### Evaluation Metrics used : BERTScore
 
